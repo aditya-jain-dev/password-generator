@@ -278,3 +278,9 @@ h1{
     font-size: 1.25rem;
     cursor: pointer;
 }
+
+@media screen and (max-width: 468px) {
+    h1{
+        font-size: 1.5rem;
+    }
+}
